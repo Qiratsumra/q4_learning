@@ -6,4 +6,7 @@ Generative AI is type of artifical integlligence that helps to creates new conte
 Generative AI works by using machine learning models (a program, created by use of algorithms that can learn from data). These models used the LLMs (Large Language Models)
 ![How does it works](image.png)
 
-
+## Real World applications of generative ai:
+Generative AI has widely impact in common industries like 
+- Health Care Industry
+  - Generative AI is revolutionizing the Health care by supports the virtual health assitants. However, ethical concrns like data privacy and data authentication of health care data must be carefully managed  
