@@ -9,4 +9,4 @@ Generative AI works by using machine learning models (a program, created by use 
 ## Real World applications of generative ai:
 Generative AI has widely impact in common industries like 
 - Health Care Industry
-  - Generative AI is revolutionizing the Health care by supports the virtual health assitants. However, ethical concrns like data privacy and data authentication of health care data must be carefully managed  
+  - Generative AI is revolutionizing the Health care by supports the virtual health assitants. However, ethical concrns like data privacy and data authentication of health care data must be carefully managed.
