@@ -9,3 +9,4 @@ used for captured value directly from the *URL Path*
 def read_item(item_id: int):
     return {"item_id": item_id}
 </pre>
+
