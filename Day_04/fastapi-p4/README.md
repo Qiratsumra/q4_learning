@@ -23,8 +23,8 @@ def search_items(q: str = None):
 
 ## 3. Request Body Parameters
 Used to recive *JSON form data or files* in the body of POST/PUT request.
-**Example**
 
+**Example**
 <pre lang="markdown">
 from pydantic import BaseModel
 
@@ -40,6 +40,7 @@ def create_item(item: Item):
 
 ## 4.Form Parameter
 Used to handle HTML form submission 
+
 **Example**
 <pre lang="markdown">
 from fastapi import Form
@@ -51,8 +52,8 @@ def login(username: str = Form(...), password: str = Form(...)):
 
 ## 5.File Parameter
 Used for file uploads
-**Example**
 
+**Example**
 <pre lang='markdown'>
 from fastapi import File, UploadFile
 
@@ -64,8 +65,8 @@ def upload_file(file: UploadFile = File(...)):
 
 ## 6.Hander Parameter
 Used to extract values from the *HTTP header*
-**Example**
 
+**Example**
 <pre lang='markdown'>
 from fastapi import Header
 
@@ -77,6 +78,7 @@ def get_user_agent(user_agent: str = Header(...)):
 
 ## 7.Cookie Parameter
 Used to extract values from *cookies*
+
 **Example**
 <pre lang='markdown'>
 from fastapi import Cookie
